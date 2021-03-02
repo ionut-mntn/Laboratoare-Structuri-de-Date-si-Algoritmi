@@ -1,0 +1,3 @@
+﻿  MapIterator.cpp
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L5Root\l5_10\MapIterator.cpp(94): warning C4715: 'MapIterator::getCurrent': not all control paths return a value
+  l5_10.vcxproj -> D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L5Root\l5_10\Debug\l5_10.exe

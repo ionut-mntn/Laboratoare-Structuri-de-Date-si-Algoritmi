@@ -1,0 +1,7 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+  Queue.cpp
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\project_from_existing_code_proba\Queue.cpp(11,2): error C2065: 'head': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\project_from_existing_code_proba\Queue.cpp(12,2): error C2065: 'tail': undeclared identifier
+  ShortTest.cpp
+  Generating Code...

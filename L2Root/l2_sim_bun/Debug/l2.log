@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\l2_sim_bun\main.cpp(222,6): error C2374: 'deck3': redefinition; multiple initialization
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\l2_sim_bun\main.cpp(221): message : see declaration of 'deck3'

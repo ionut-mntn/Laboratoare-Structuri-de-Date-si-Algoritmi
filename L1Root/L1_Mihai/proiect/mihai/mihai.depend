@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1584467047 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_mihai\proiect\mihai\extendedtest.cpp
+	"ExtendedTest.h"
+	"Map.h"
+	"MapIterator.h"
+	<assert.h>
+	<iostream>
+
+1584462611 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_mihai\proiect\mihai\extendedtest.h
+
+1584467971 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_mihai\proiect\mihai\map.h
+	<utility>
+
+1584462858 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_mihai\proiect\mihai\mapiterator.h
+	"Map.h"
+
+1584463194 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_mihai\proiect\mihai\main.cpp
+	"ExtendedTest.h"
+	"ShortTest.h"
+	"Map.h"
+	<iostream>
+
+1584462689 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_mihai\proiect\mihai\shorttest.h
+
+1584467806 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_mihai\proiect\mihai\map.cpp
+	"Map.h"
+	"MapIterator.h"
+
+1584466090 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_mihai\proiect\mihai\mapiterator.cpp
+	"Map.h"
+	"MapIterator.h"
+	<exception>
+	<iostream>
+
+1584465808 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_mihai\proiect\mihai\shorttest.cpp
+	"ShortTest.h"
+	<assert.h>
+	"Map.h"
+	"MapIterator.h"
+	<iostream>
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asus/Documents/Lab4_SDA/TestP8.cpp
+assert.h
+-
+ThirdPriorityQueue.h
+C:/Users/asus/Documents/Lab4_SDA/ThirdPriorityQueue.h
+TestP8.h
+C:/Users/asus/Documents/Lab4_SDA/TestP8.h
+vector
+-
+exception
+-
+iostream
+-
+
+C:/Users/asus/Documents/Lab4_SDA/TestP8.h
+
+C:/Users/asus/Documents/Lab4_SDA/ThirdPriorityQueue.h
+utility
+-
+

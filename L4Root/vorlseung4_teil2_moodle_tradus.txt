@@ -1,0 +1,5 @@
+The iterator for SLLA is a mixture of the iterator for an array and the iterator for a simply linked list
+
+Since the elements are stored in an array, the currentElement is an index from the array
+
+But, since it is a linked list, you cannot go to the next element with an increment from currentElement, you have to follow the next links

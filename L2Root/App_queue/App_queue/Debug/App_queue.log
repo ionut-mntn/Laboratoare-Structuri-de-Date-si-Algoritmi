@@ -1,0 +1,5 @@
+﻿  Queue.cpp
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\arhiva queue\Queue.cpp(11,2): error C2065: 'head': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\arhiva queue\Queue.cpp(12,2): error C2065: 'tail': undeclared identifier
+  App_queue.cpp
+  Generating Code...

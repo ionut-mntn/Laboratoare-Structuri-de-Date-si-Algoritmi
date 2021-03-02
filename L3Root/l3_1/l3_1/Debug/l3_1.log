@@ -1,0 +1,9 @@
+﻿  l3_1.cpp
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L3Root\l3_1\l3_1\l3_1.cpp(56,21): error C2065: 'queue': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L3Root\l3_1\l3_1\l3_1.cpp(62,3): error C2065: 'q': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L3Root\l3_1\l3_1\l3_1.cpp(67,38): error C2065: 'q': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L3Root\l3_1\l3_1\l3_1.cpp(70,38): error C2065: 'q': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L3Root\l3_1\l3_1\l3_1.cpp(73,38): error C2065: 'q': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L3Root\l3_1\l3_1\l3_1.cpp(76,38): error C2065: 'q': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L3Root\l3_1\l3_1\l3_1.cpp(106,5): error C2660: 'gaseste_cale': function does not take 5 arguments
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L3Root\l3_1\l3_1\l3_1.cpp(51,6): message : see declaration of 'gaseste_cale'

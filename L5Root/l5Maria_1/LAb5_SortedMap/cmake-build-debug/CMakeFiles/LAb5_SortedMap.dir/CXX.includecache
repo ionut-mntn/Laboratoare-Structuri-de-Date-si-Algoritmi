@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asus/Documents/LAb5_SortedMap/ExtendedTest.cpp
+exception
+-
+assert.h
+-
+algorithm
+-
+vector
+-
+iostream
+-
+SortedMap.h
+C:/Users/asus/Documents/LAb5_SortedMap/SortedMap.h
+SMIterator.h
+C:/Users/asus/Documents/LAb5_SortedMap/SMIterator.h
+ExtendedTest.h
+C:/Users/asus/Documents/LAb5_SortedMap/ExtendedTest.h
+
+C:/Users/asus/Documents/LAb5_SortedMap/ExtendedTest.h
+
+C:/Users/asus/Documents/LAb5_SortedMap/SMIterator.h
+SortedMap.h
+C:/Users/asus/Documents/LAb5_SortedMap/SortedMap.h
+
+C:/Users/asus/Documents/LAb5_SortedMap/SortedMap.h
+utility
+-
+

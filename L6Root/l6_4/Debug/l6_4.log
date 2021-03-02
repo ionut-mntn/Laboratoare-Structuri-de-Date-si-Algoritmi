@@ -1,0 +1,27 @@
+﻿  ExtendedTest.cpp
+  ListIterator.cpp
+  ShortTest.cpp
+  SortedIndexedList.cpp
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(45,26): error C2143: syntax error: missing ';' before 'SortedIndexedList::remove'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(45,32): error C2377: 'TComp': redefinition; typedef cannot be overloaded with any other symbol
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.h(6): message : see declaration of 'TComp'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(45,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(58,37): error C2146: syntax error: missing ')' before identifier 'e'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(58,46): error C2143: syntax error: missing ';' before '{'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(58,46): error C2447: '{': missing function header (old-style formal list?)
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(101,43): error C2146: syntax error: missing ')' before identifier 'e'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(102,1): error C2143: syntax error: missing ';' before '{'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(102,1): error C2447: '{': missing function header (old-style formal list?)
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(110,68): error C2061: syntax error: identifier 'TComp'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(111,1): error C2511: 'NodeSL *SortedIndexedList::add_wrapper(NodeSL *)': overloaded member function not found in 'SortedIndexedList'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.h(32): message : see declaration of 'SortedIndexedList'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(113,27): error C2065: 'e': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(114,11): error C2597: illegal reference to non-static member 'SortedIndexedList::rel'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(114,35): error C2065: 'e': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(114,11): error C2065: 'rel': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(116,52): error C2065: 'e': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(120,52): error C2065: 'e': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(125,35): error C2146: syntax error: missing ')' before identifier 'e'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(125,38): error C2143: syntax error: missing ';' before '{'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L6Root\l6_4\SortedIndexedList.cpp(125,38): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

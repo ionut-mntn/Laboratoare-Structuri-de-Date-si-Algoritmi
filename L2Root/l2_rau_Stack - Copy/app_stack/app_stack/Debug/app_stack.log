@@ -1,0 +1,5 @@
+﻿  Stack.cpp
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\l2_rau_Stack\app_stack\app_stack\Stack.cpp(27,19): error C2065: 'exception': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\l2_rau_Stack\app_stack\app_stack\Stack.cpp(27,29): error C2146: syntax error: missing ';' before identifier 'each'
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\l2_rau_Stack\app_stack\app_stack\Stack.cpp(27,29): error C2065: 'each': undeclared identifier
+D:\ionut\Info\Faculta\sem II\SDA - Structuri de Date si Algoritmi ( Diana Cristea - Troanca, Solea Victor )\Laboratoare\L2Root\l2_rau_Stack\app_stack\app_stack\Stack.cpp(27,41): error C2065: 'each': undeclared identifier

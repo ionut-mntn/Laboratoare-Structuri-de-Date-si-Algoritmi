@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1584378183 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2\sortedset\extendedtest.cpp
+	"SortedSet.h"
+	<assert.h>
+	"SortedSetIterator.h"
+	<exception>
+	"ExtendedTest.h"
+	<iostream>
+
+1584303944 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2\sortedset\sortedset.h
+
+1584365040 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2\sortedset\sortedsetiterator.h
+	"SortedSet.h"
+
+1584178676 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2\sortedset\extendedtest.h
+
+1584372081 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2\sortedset\main.cpp
+	"ShortTest.h"
+	"ExtendedTest.h"
+	"SortedSet.h"
+	"SortedSetIterator.h"
+	<iostream>
+
+1584178662 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2\sortedset\shorttest.h
+
+1584371198 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2\sortedset\shorttest.cpp
+	"ShortTest.h"
+	"SortedSet.h"
+	"SortedSetIterator.h"
+	<assert.h>
+	<iostream>
+
+1584377606 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2\sortedset\sortedset.cpp
+	"SortedSet.h"
+	"SortedSetIterator.h"
+	<iostream>
+
+1584375185 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2\sortedset\sortedsetiterator.cpp
+	<iostream>
+	"SortedSetIterator.h"
+	<exception>
+
+1584381864 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2 - copy\sortedset\extendedtest.cpp
+	"SortedSet.h"
+	<assert.h>
+	"SortedSetIterator.h"
+	<exception>
+	"ExtendedTest.h"
+	<iostream>
+
+1584381901 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2 - copy\sortedset\sortedset.h
+
+1584381920 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2 - copy\sortedset\sortedsetiterator.h
+	"SortedSet.h"
+
+1584178676 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2 - copy\sortedset\extendedtest.h
+
+1584443502 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2 - copy\sortedset\main.cpp
+	"ShortTest.h"
+	"ExtendedTest.h"
+	"SortedSet.h"
+	"SortedSetIterator.h"
+	<iostream>
+
+1584178662 d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2 - copy\sortedset\shorttest.h
+
+1584381983 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2 - copy\sortedset\shorttest.cpp
+	"ShortTest.h"
+	"SortedSet.h"
+	"SortedSetIterator.h"
+	<assert.h>
+	<iostream>
+
+1584444155 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2 - copy\sortedset\sortedset.cpp
+	"SortedSet.h"
+	"SortedSetIterator.h"
+	<iostream>
+
+1584444879 source:d:\ionut\info\faculta\sem ii\sda - structuri de date si algoritmi ( diana cristea - troanca, solea victor )\laboratoare\l1_tema_acasa2 - copy\sortedset\sortedsetiterator.cpp
+	<iostream>
+	"SortedSetIterator.h"
+	<exception>
+
